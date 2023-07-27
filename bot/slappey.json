@@ -1,11 +1,11 @@
 {
-  "name": "bot",
+  "name": "tansenrobot",
   "language": "javascript",
   "manager": "yarn",
-  "token": "",
+  "token": "6634235352:AAGmstdQ0LJkX1MXMnvKHf3TFkwEY94rb3g",
   "prefix": "",
-  "owners": [
-    "seperate ids in with ,",
-    "and incase in quotes"
+  "owners": [ 
+    "Rajan ,",
+    "Himalaya"
   ]
 }
